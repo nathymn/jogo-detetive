@@ -23,30 +23,43 @@ Você será capaz de interrogar os membros da gangue, analisar pistas e descobri
 
 ---
 
-## 🧑‍🤝‍🧑 Personagens (Suspeitos)
+---
 
-- Diversos membros da gangue Vanderlinde são suspeitos.
-- Cada um possui comportamentos e histórias diferentes que podem (ou não) esconder a verdade.
+## 🧑‍🎭 Personagens (Suspeitos)
+
+- **Micah** – Assassino lendário.  
+- **Abigail** – Ex-meretriz no bordel de Imbituva, que posteriormente virou dona do estabelecimento.  
+- **Lenny** – Vendedor de armas em Imbituva.  
+- **Javier** – Responsável pelo estábulo de Imbituva.  
+- **Bill** – Banqueiro no banco de Imbituva.  
+- **Pearson** – Cozinheiro do acampamento e açougueiro da cidade de Imbituva.  
+- **Sadie** – Caçadora de Recompensas.  
+- **Leopold** – Recepcionista e dono do Hotel em Imbituva.  
+- **Doutor** – Médico e dono da farmácia de Imbituva.  
+- **Sally** – Bartender do Saloon da cidade.  
 
 ---
 
-## 🗺️ Cenários (Locais)
+## 🗺️ Locais investigados
 
-- Acampamento da gangue  
-- Cabanas  
-- Celeiro  
-- Cozinha  
-- E outros ambientes do velho-oeste
+- Consultório médico  
+- Banco  
+- Loja de Armas  
+- Departamento do Xerife  
+- Acampamento  
+- Teatro  
+- Bordel  
+- Saloon  
+- Hotel  
+- Estábulo  
 
 ---
 
-## ⚰️ Causas da Morte
-
-A causa da morte de Dutch varia a cada rodada e pode ser:
+## 🩸 Possíveis armas do crime
 
 - Faca  
-- Revólver  
 - Veneno  
+- Revólver  
 - Corda  
 - Pá  
 - Arco e flecha  
