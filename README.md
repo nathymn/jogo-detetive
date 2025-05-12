@@ -2,8 +2,6 @@
 
 ### Um jogo interativo de mistério e investigação no velho-oeste, feito em Python.
 
----
-
 ## 🔎 Sinopse
 
 Em meados de 1899, nos últimos dias do velho-oeste, a cidade de Imbituva – PR é palco de um assassinato misterioso. Dutch, o temido líder da gangue Vanderlinde, foi encontrado morto no acampamento da gangue.
@@ -12,7 +10,6 @@ A tensão entre os integrantes era evidente, e agora cabe a você, jogador, assu
 
 Você será capaz de interrogar os membros da gangue, analisar pistas e descobrir o verdadeiro assassino antes que seja tarde demais?
 
----
 
 ## 🎮 Como jogar
 
@@ -21,9 +18,6 @@ Você será capaz de interrogar os membros da gangue, analisar pistas e descobri
 - **Atenção:** Você só tem **uma chance** de acertar quem matou Dutch.
 - A causa da morte muda a cada partida, tornando o jogo mais desafiador e rejogável.
 
----
-
----
 
 ## 🧑‍🎭 Personagens (Suspeitos)
 
@@ -38,7 +32,6 @@ Você será capaz de interrogar os membros da gangue, analisar pistas e descobri
 - **Doutor** – Médico e dono da farmácia de Imbituva.  
 - **Sally** – Bartender do Saloon da cidade.  
 
----
 
 ## 🗺️ Locais investigados
 
@@ -53,8 +46,6 @@ Você será capaz de interrogar os membros da gangue, analisar pistas e descobri
 - Hotel  
 - Estábulo  
 
----
-
 ## 🩸 Possíveis armas do crime
 
 - Faca  
@@ -65,28 +56,26 @@ Você será capaz de interrogar os membros da gangue, analisar pistas e descobri
 - Arco e flecha  
 - Garrafa de vidro  
 
----
 
 ## 📋 Ficha Criminal
 
 Durante a investigação, todas as pistas coletadas ficam registradas na "ficha criminal", acessível a qualquer momento para consulta.
 
----
 
 ## 🛑 Fim do jogo
 
 - O jogo termina **assim que você fizer uma acusação**.
 - Se acertar, você vence.
-- Se errar, o mistério permanece sem solução...
+- Se errar, o assassino foge e você perde.
 
----
+
 
 ## 🛠️ Tecnologias usadas
 
 - Python 3
 - Terminal/CLI
 
----
+
 
 ## 🚀 Como executar
 
