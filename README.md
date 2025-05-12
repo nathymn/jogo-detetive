@@ -80,5 +80,9 @@ Durante a investigação, todas as pistas coletadas ficam registradas na "ficha 
 ## 🚀 Como executar
 
 1. Clone este repositório:
-```bash
 git clone https://github.com/seu-usuario/jogo-detetive.git
+
+2. Acesse a pasta do projeto:
+cd jogo-detetive
+
+3. Execute o jogo.
