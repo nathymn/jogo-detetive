@@ -1173,16 +1173,16 @@ def deductions():
                                              "Pearson estava com o Doutor no consultório médico"],
                                             ["Pearson estava com o Doutor no consultório médico => Pearson estava com o Doutor no consultório médico"], ints=False)
             doutor_validation = ttg.Truths(["Pearson estava com o Doutor no consultório médico",
-                                            "Pearson estava com o Doutor no consultório médico"]
-                                           ["Pearson estava com o Doutor no consultório médico => Doutor estava trabalhando e encontrou Pearson no consultório médico"], ints=False)
+                                            "Pearson estava com o Doutor no consultório médico",
+                                           "Pearson estava com o Doutor no consultório médico => Doutor estava trabalhando e encontrou Pearson no consultório médico"], ints=False)
 
             # Sadie sendo álibi
             # H = "Sadie estava no hotel com Leopold"
             # I = "Leopold estava com Sadie no hotel"
             # I  H		(V)
             sadie_validation = ttg.Truths(["Sadie estava no hotel com Leopold",
-                                           "Leopold estava com Sadie no hotel"]
-                                          ["Leopold estava com Sadie no hote => Sadie estava no hotel com Leopold"], ints=False)
+                                           "Leopold estava com Sadie no hotel"
+                                          "Leopold estava com Sadie no hote => Sadie estava no hotel com Leopold"], ints=False)
             leopold_validation = ttg.Truths(["Sadie estava no hotel com Leopold",
                                              "Leopold estava com Sadie no hotel"],
                                             ["Sadie estava no hotel com Leopold => Leopold estava com Sadie no hotel"], ints=False)
